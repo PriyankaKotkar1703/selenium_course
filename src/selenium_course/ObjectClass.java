@@ -12,7 +12,7 @@ public class ObjectClass {
 			String size;
 			String colour;
 			
-			void Write(String notes)
+			void Read(String notes)
 			{
 				
 			}
