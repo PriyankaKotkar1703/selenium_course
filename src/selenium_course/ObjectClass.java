@@ -4,7 +4,38 @@ public class ObjectClass {
 
 	public static void main(String[] args) {
 	}
-		class book
+	
+ class Human {
+        String Name;
+		int age;
+		void speak(String content)
+		{
+		}
+		}
+ class Laptop {
+     String BrandName;
+		double speed;
+		void ExecuteProgram(String content)
+		{
+		}
+		}
+ class Testcase {
+     String TestCaseName;
+		int id;
+		void ExecuteTest(String content)
+		{
+		}
+		}
+ class SportsMan {
+     String Name;
+		int age;
+		String SportsName;
+		void PlaySports(String content)
+		{
+		}
+		}
+
+class book
 		{
 			double length;
 			double width;
